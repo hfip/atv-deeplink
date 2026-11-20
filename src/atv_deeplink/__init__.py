@@ -3,7 +3,7 @@
 from .apps import APPS, App, get, get_by_scheme, keys
 from .links import Problem, Validation, build, decode_target, validate
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "APPS",
